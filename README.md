@@ -56,3 +56,6 @@ When it's time to hand in your final project to your teacher:
 - **Follow the rubric**: I missed my 100% because I thought four points for an eight-point question was enough. **Read the rubric twice!**
 
 # 🍀 Good luck!
+
+# 🔗 Extra Resources and Links!
+- [IT Theory Grade 10 to 12](https://youtube.com/playlist?list=PLVGGDSStVID8YLJJmeL8BdS485YfgXjtV&si=sRUUU0Yu1Gre-Ae2)
