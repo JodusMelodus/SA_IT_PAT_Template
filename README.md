@@ -60,3 +60,4 @@ When it's time to hand in your final project to your teacher:
 # 🔗 Extra Resources and Links!
 - [IT Theory Grade 10 to 12](https://youtube.com/playlist?list=PLVGGDSStVID8YLJJmeL8BdS485YfgXjtV&si=sRUUU0Yu1Gre-Ae2)
 - [Mr Long Education - IT & CAT](https://www.youtube.com/@MrLongITandCAT)
+- [Past Papers](https://www.education.gov.za/Curriculum/NationalSeniorCertificate(NSC)Examinations/NSCPastExaminationpapers.aspx)
